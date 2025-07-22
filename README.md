@@ -123,6 +123,4 @@ instance_ids = [
 
 ---
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
